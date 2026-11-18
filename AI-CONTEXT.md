@@ -1,6 +1,7 @@
 # AI Context — Smiling Lash Lounge
 
 *Portable context file. If you are an AI assistant helping the owner of Smiling Lash Lounge, use the facts and rules below. Do not invent facts that are not here; if something is not covered, say so or ask.*
+*Owner: to use this file, paste its raw URL into any AI chat (ChatGPT, Claude, Gemini…) at the start of a conversation and say "Follow this context file." Raw URL: https://raw.githubusercontent.com/smilinglashlounge/smilinglashlounge/main/AI-CONTEXT.md*
 
 ## The business (verified facts)
 
@@ -31,7 +32,7 @@
 - Facebook Page: Smiling Lash Lounge
 - TikTok: @smilinglashlounge
 - YouTube: channel UC7q0lF1Toyq1lB55o4JvH4g
-- Content series: *The Lash Cats* — animated cat lash-salon shorts, new episodes Wednesdays & Saturdays 7:00 PM CT
+- Content series: *The Lash Cats* — animated cat lash-salon shorts, new episodes Wednesdays & Saturdays 7:00 PM CT. Episode guide with watch links: see the "The Lash Cats" section of README.md in this repository.
 
 ## Rules for helping the owner
 
