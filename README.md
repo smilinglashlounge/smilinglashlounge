@@ -33,7 +33,7 @@ A tiny cat lash salon, big drama. New episodes **Wednesdays & Saturdays, 7:00 PM
 
 | Episode | Watch |
 |---|---|
-| EP8 — The Proposal 💍 *(premiered Nov 18, 2026)* | [Instagram](https://www.instagram.com/reel/Df4vYyLD6b2/) · [Facebook](https://facebook.com/reel/29369189802693297/) · [YouTube](https://youtube.com/shorts/aqve-Cq7QZE) |
+| EP8 — The Proposal 💍 *(premiered Nov 18, 2026)* | [Instagram](https://www.instagram.com/reel/Df4vYyLD6b2/) · [Facebook](https://facebook.com/reel/29369189802693297/) · [YouTube](https://youtube.com/shorts/aqve-Cq7QZE) · [TikTok](https://www.tiktok.com/@smilinglashlounge/video/7709684414158097677) |
 | EP7 — Main Character | [Instagram](https://www.instagram.com/reel/DfoOeWBjymv/) · [YouTube](https://youtube.com/shorts/FCz6PvnXo7Y) |
 | EP3 — The Wannabe Dog | [Instagram](https://www.instagram.com/reel/DfkVkM6DFM7/) · [Facebook](https://facebook.com/reel/1126393223588429/) · [YouTube](https://youtube.com/shorts/6Y0Z95UXdB4) · [TikTok](https://www.tiktok.com/@smilinglashlounge/video/7707100774051908878) |
 | EP2 — The Fill | [Instagram](https://www.instagram.com/reel/DffZACeD6Eh/) · [Facebook](https://facebook.com/reel/1154364007041718) · [YouTube](https://youtube.com/shorts/dSO47e_jrwQ) |
